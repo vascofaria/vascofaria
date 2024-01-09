@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m currently working on Millennium BCP
+- 👨‍💻 I’m currently working at Millennium BCP
 - 🎓 Studying Computer Science (MEIC) at Instituto Superior Técnico
 - 📫 How to reach me: vascoffaria@gmail.com
 
